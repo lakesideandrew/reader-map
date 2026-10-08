@@ -1,4 +1,4 @@
-{"type":"FeatureCollection","fetchedAt":"2026-10-07T17:42:34.830Z","features":[
+{"type":"FeatureCollection","fetchedAt":"2026-10-08T16:52:36.357Z","features":[
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-92.757487,44.988143]},"properties":{"osm":"node/12333489524","vendor":"flock","city":null,"manufacturer":"Flock Safety","operator":"Hudson Police Department","direction":"155","mount":"pole","zone":"traffic"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-92.742606,44.983529]},"properties":{"osm":"node/12333489525","vendor":"flock","city":null,"operator":"Hudson Police Department","direction":"205","mount":"pole","zone":"traffic"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[-92.716424,44.987082]},"properties":{"osm":"node/12333489526","vendor":"flock","city":null,"operator":"Hudson Police Department","direction":"240","mount":"pole","zone":"traffic"}},
