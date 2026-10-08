@@ -271,6 +271,11 @@ async function main() {
     log(`fixture: ${findings.length} findings`);
   } else {
     if (!process.env.ANTHROPIC_API_KEY && !process.env.ANTHROPIC_AUTH_TOKEN) {
+      // In GitHub Actions, warn and skip so the camera refresh still ships.
+      if (process.env.GITHUB_ACTIONS) {
+        console.log("::warning::ANTHROPIC_API_KEY secret is not set; skipping the AI news check this week.");
+        return;
+      }
       console.error("ANTHROPIC_API_KEY is not set. Add it to .env or the environment.");
       process.exit(2);
     }
