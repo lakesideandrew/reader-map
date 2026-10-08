@@ -1,0 +1,585 @@
+{
+  "_about": "Hand-curated starting statuses from news research on 2026-10-06. seed-cities.js applies these only to cities that do not already have a record, so later edits and AI updates are never overwritten. Names match the MnDOT boundary layer after normalization (St. = Saint).",
+  "cities": [
+    {
+      "name": "Crystal",
+      "status": "cancelled",
+      "vendor": "Flock Safety",
+      "cameras": 6,
+      "since": "2026-09-09",
+      "confidence": "high",
+      "summary": "Police chief ended the program. All 6 cameras were removed and returned on Sep 9 and data sharing ended. No replacement planned.",
+      "sources": [
+        {
+          "url": "https://www.startribune.com/crystal-mn-removes-flock-cameras/601888011",
+          "title": "Crystal removes Flock cameras",
+          "outlet": "Star Tribune",
+          "date": "2026-09-09"
+        },
+        {
+          "url": "https://kstp.com/kstp-news/local-news/after-community-feedback-crystal-becomes-latest-city-to-drop-flock-cameras/",
+          "title": "Crystal becomes latest city to drop Flock cameras",
+          "outlet": "KSTP",
+          "date": "2026-09-09"
+        }
+      ]
+    },
+    {
+      "name": "Columbia Heights",
+      "status": "cancelled",
+      "vendor": "Flock Safety",
+      "cameras": 12,
+      "since": "2026-06-08",
+      "confidence": "high",
+      "summary": "Council voted unanimously to cancel the contract. All 12 cameras were disconnected and removed.",
+      "sources": [
+        {
+          "url": "https://www.mprnews.org/story/2026/06/09/columbia-heights-city-council-votes-end-flock-safety-camera-contract",
+          "title": "Columbia Heights votes to end Flock contract",
+          "outlet": "MPR News",
+          "date": "2026-06-09"
+        }
+      ]
+    },
+    {
+      "name": "West St. Paul",
+      "status": "cancelled",
+      "vendor": "Flock Safety",
+      "cameras": 10,
+      "since": "2026-08-10",
+      "confidence": "high",
+      "summary": "City manager suspended the contract and all 10 cameras were removed. Bringing them back would require a council vote.",
+      "sources": [
+        {
+          "url": "https://www.kare11.com/article/news/local/west-st-paul-suspends-contract-flock-safety/89-5f230761-b0ca-44fc-b829-9d5bedcc9eea",
+          "title": "West St. Paul suspends Flock contract",
+          "outlet": "KARE 11",
+          "date": "2026-08-10"
+        }
+      ]
+    },
+    {
+      "name": "St. Paul",
+      "status": "cancelled",
+      "vendor": "Flock Safety",
+      "cameras": 2,
+      "since": "2026-08-26",
+      "confidence": "high",
+      "summary": "Council passed a unanimous non-binding resolution to end Flock use in the city and county. The police department's 2 fixed cameras were removed. The Ramsey County Sheriff's roughly 37 cameras remain.",
+      "sources": [
+        {
+          "url": "https://www.fox9.com/news/st-paul-city-council-flock-cameras-aug-26-2026",
+          "title": "St. Paul City Council on Flock cameras",
+          "outlet": "FOX 9",
+          "date": "2026-08-26"
+        },
+        {
+          "url": "https://www.cbsnews.com/minnesota/news/st-paul-to-remove-flock-cameras-after-residents-raise-privacy-concerns/",
+          "title": "St. Paul to remove Flock cameras",
+          "outlet": "WCCO",
+          "date": "2026-08-26"
+        }
+      ]
+    },
+    {
+      "name": "Brooklyn Park",
+      "status": "other_vendor",
+      "vendor": "Axon",
+      "cameras": 6,
+      "since": "2025-12-01",
+      "confidence": "high",
+      "summary": "Cancelled its Flock contract (8 cameras) in December 2025 and switched to Axon plate readers: 4 installed, 2 more planned.",
+      "sources": [
+        {
+          "url": "https://www.kare11.com/article/news/local/breaking-the-news/multiple-cities-minnesota-cancel-contracts-flock/89-bfd002b1-6830-4139-8287-cea513e602a0",
+          "title": "Multiple Minnesota cities cancel Flock contracts",
+          "outlet": "KARE 11",
+          "date": "2025-12-01"
+        }
+      ]
+    },
+    {
+      "name": "Champlin",
+      "status": "pending",
+      "vendor": "Flock Safety",
+      "since": "2026-09-01",
+      "confidence": "medium",
+      "summary": "All cameras were pulled offline after vandalism. The city calls it temporary but has no reinstatement timeline.",
+      "sources": [
+        {
+          "url": "https://hoodline.com/2026/09/vandals-force-champlin-to-pull-flock-cameras-amid-statewide-surveillance-revolt/",
+          "title": "Vandals force Champlin to pull Flock cameras",
+          "outlet": "Hoodline",
+          "date": "2026-09-01"
+        }
+      ]
+    },
+    {
+      "name": "Dayton",
+      "status": "pending",
+      "vendor": "Flock Safety",
+      "since": "2026-08-25",
+      "confidence": "high",
+      "summary": "Council suspended all license plate reader programs through 2027 because the contract is locked in. Flock reinstalled 2 cameras without authorization in October; they have since been removed.",
+      "sources": [
+        {
+          "url": "https://cbsnews.com/minnesota/news/dayton-minnesota-flock-cameras-installed-without-permission",
+          "title": "Flock cameras installed in Dayton without permission",
+          "outlet": "WCCO",
+          "date": "2026-10-02"
+        }
+      ]
+    },
+    {
+      "name": "Fridley",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 6,
+      "sharing_restricted": true,
+      "since": "2026-07-20",
+      "confidence": "high",
+      "summary": "Kept 6 cameras. Disabled immigration searches in January, limited sharing to Minnesota agencies in February, and blocked 287(g) agencies in July. It had been the largest outside access point, with about 390,000 outside searches a month.",
+      "sources": [
+        {
+          "url": "https://www.fox9.com/news/flock-camera-debate-fridley-city-council-july-28-2026",
+          "title": "Flock camera debate at Fridley City Council",
+          "outlet": "FOX 9",
+          "date": "2026-07-28"
+        }
+      ]
+    },
+    {
+      "name": "St. Louis Park",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 8,
+      "sharing_restricted": true,
+      "since": "2026-04-06",
+      "confidence": "high",
+      "summary": "Council voted to keep cameras with required reason codes, denial of immigration searches, and quarterly audits.",
+      "sources": [
+        {
+          "url": "https://www.hometownsource.com/sun_sailor/community/stlouispark/flock-cameras-will-remain-active-in-slp---with-limitations/article_ae1fdff0-2a0c-4e2a-8489-22fe7de59495.html",
+          "title": "Flock cameras will remain active in SLP, with limitations",
+          "outlet": "Sun Sailor",
+          "date": "2026-04-06"
+        }
+      ]
+    },
+    {
+      "name": "Shakopee",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 7,
+      "sharing_restricted": true,
+      "since": "2026-09-01",
+      "confidence": "high",
+      "summary": "7 cameras, 5 working. Outside agencies now need a warrant. Considering 7-day retention; no council vote yet.",
+      "sources": [
+        {
+          "url": "https://www.fox9.com/news/shakopee-flock-cameras-city-defends-surveillance-tools-amid-misinformation-concerns",
+          "title": "Shakopee defends Flock cameras",
+          "outlet": "FOX 9",
+          "date": "2026-09-01"
+        }
+      ]
+    },
+    {
+      "name": "Woodbury",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 18,
+      "sharing_restricted": true,
+      "since": "2026-08-01",
+      "confidence": "medium",
+      "summary": "18 cameras per state reports. Residents asked for a pause in August; staff restricted outside access and are exploring a third-party review.",
+      "sources": [
+        {
+          "url": "https://citizenportal.ai/articles/9858740/Minnesota/Washington-County/Woodbury-City/Residents-urge-privacy-review-of-Flock-ALPR-cameras-city-says-outside-access-now-restricted",
+          "title": "Residents urge privacy review of Flock cameras",
+          "outlet": "Citizen Portal",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "name": "Edina",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 19,
+      "sharing_restricted": true,
+      "since": "2026-08-01",
+      "confidence": "medium",
+      "summary": "Active, with reported counts from 19 to 34 cameras. Repeated vandalism. The city says it does not share with outside agencies. No council action.",
+      "sources": [
+        {
+          "url": "https://kstp.com/kstp-news/local-news/edina-police-say-3-flock-cameras-are-still-functional-after-they-were-spray-painted/",
+          "title": "Edina Flock cameras still functional after vandalism",
+          "outlet": "KSTP",
+          "date": "2026-08-01"
+        },
+        {
+          "url": "https://www.edinamn.gov/2228/Immigration",
+          "title": "Edina immigration FAQ",
+          "outlet": "City of Edina",
+          "date": "2026-08-01"
+        }
+      ]
+    },
+    {
+      "name": "Richfield",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 10,
+      "since": "2026-09-04",
+      "confidence": "high",
+      "summary": "10 cameras active. Residents petitioned and testified on Aug 25; no vote scheduled. Contract renews May 2027.",
+      "sources": [
+        {
+          "url": "https://www.hometownsource.com/sun_current/community/richfield-residents-ask-city-to-end-its-use-of-flock-cameras/article_3b14bda2-ed5a-4011-a6e9-7238847561ca.html",
+          "title": "Richfield residents ask city to end Flock use",
+          "outlet": "Sun Current",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "name": "Lakeville",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 18,
+      "since": "2025-12-15",
+      "confidence": "medium",
+      "summary": "Council approved 17 to 20 cameras on Dec 15, 2025. Residents are urging the council to rescind.",
+      "sources": [
+        {
+          "url": "https://www.mnprivacy.org/tracker/",
+          "title": "Minnesota ALPR tracker",
+          "outlet": "mnprivacy.org",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "name": "Brooklyn Center",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 11,
+      "since": "2026-09-30",
+      "confidence": "low",
+      "summary": "State reports list 11 active cameras, but one outlet reported the city cut ties. Needs confirmation.",
+      "sources": [
+        {
+          "url": "https://www.mnprivacy.org/tracker/",
+          "title": "Minnesota ALPR tracker",
+          "outlet": "mnprivacy.org",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "name": "Maplewood",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 17,
+      "since": "2025-07-14",
+      "confidence": "low",
+      "summary": "Approved a 2-year pilot on Jul 14, 2025. About 17 cameras reportedly installed but not yet activated as of September 2026.",
+      "sources": [
+        {
+          "url": "https://www.mnprivacy.org/tracker/",
+          "title": "Minnesota ALPR tracker",
+          "outlet": "mnprivacy.org",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "name": "Burnsville",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "cameras": 20,
+      "confidence": "medium",
+      "summary": "Council endorsed 20 Flock cameras at about $65,000 a year.",
+      "sources": [
+        {
+          "url": "https://www.mnprivacy.org/tracker/",
+          "title": "Minnesota ALPR tracker",
+          "outlet": "mnprivacy.org",
+          "date": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "name": "Minneapolis",
+      "status": "other_vendor",
+      "vendor": "Insight LPR",
+      "cameras": 30,
+      "since": "2026-08-04",
+      "confidence": "high",
+      "summary": "Police use about 30 plate readers from Insight LPR, not Flock, per an Aug 4 city statement. A 9-4 council resolution urges Hennepin County and the U of M to drop Flock.",
+      "sources": [
+        {
+          "url": "https://unicornriot.ninja/2026/alprs-and-minneapolis-growing-discriminatory-surveillance-dragnet/",
+          "title": "ALPRs and Minneapolis",
+          "outlet": "Unicorn Riot",
+          "date": "2026-08-04"
+        },
+        {
+          "url": "https://kstp.com/kstp-news/local-news/minneapolis-city-council-resolution-calls-on-u-of-m-hennepin-county-to-ditch-flock-cameras/",
+          "title": "Minneapolis council resolution on Flock",
+          "outlet": "KSTP",
+          "date": "2026-10-01"
+        }
+      ]
+    },
+    {
+      "name": "Eden Prairie",
+      "status": "other_vendor",
+      "vendor": "Motorola",
+      "since": "2026-09-04",
+      "confidence": "high",
+      "summary": "Uses Motorola plate readers, not Flock. No changes planned.",
+      "sources": [
+        {
+          "url": "https://eplocalnews.org/2026/09/04/eden-prairie-police-address-automated-license-plate-reader-privacy-concerns/",
+          "title": "Eden Prairie police address ALPR privacy concerns",
+          "outlet": "EP Local News",
+          "date": "2026-09-04"
+        }
+      ]
+    },
+    {
+      "name": "Plymouth",
+      "status": "pending",
+      "vendor": "Flock Safety",
+      "cameras": 16,
+      "since": "2026-09-22",
+      "confidence": "high",
+      "summary": "Council voted on Sep 22 to discontinue all 16 Flock cameras, with the mayor the sole dissent. As of October the cameras have not been removed or covered.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        },
+        {
+          "url": "https://www.mprnews.org/story/2026/09/23/plymouth-stops-using-flock-cameras",
+          "title": "Plymouth stops using Flock cameras",
+          "outlet": "MPR News",
+          "date": "2026-09-23"
+        }
+      ]
+    },
+    {
+      "name": "Shorewood",
+      "status": "cancelled",
+      "vendor": "Flock Safety",
+      "cameras": 1,
+      "since": "2026-10-08",
+      "confidence": "high",
+      "summary": "South Lake Minnetonka Police are ending Flock on Dec 31, 2026. Shorewood's single camera is already out of service, covered with a garbage bag.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        },
+        {
+          "url": "https://shorewoodmn.gov/Blog.aspx?IID=21",
+          "title": "City of Shorewood update",
+          "outlet": "City of Shorewood",
+          "date": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "name": "Spring Park",
+      "status": "cancelled",
+      "vendor": "Flock Safety",
+      "since": "2026-09-01",
+      "confidence": "high",
+      "summary": "Cancelled its Flock contract in September 2026.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-09-01"
+        }
+      ]
+    },
+    {
+      "name": "Excelsior",
+      "status": "pending",
+      "vendor": "Flock Safety",
+      "since": "2026-10-08",
+      "confidence": "high",
+      "summary": "Policed by South Lake Minnetonka Police, which ends its Flock program on Dec 31, 2026.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "name": "Greenwood",
+      "status": "pending",
+      "vendor": "Flock Safety",
+      "since": "2026-10-08",
+      "confidence": "high",
+      "summary": "Policed by South Lake Minnetonka Police, which ends its Flock program on Dec 31, 2026.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "name": "Tonka Bay",
+      "status": "pending",
+      "vendor": "Flock Safety",
+      "since": "2026-10-08",
+      "confidence": "high",
+      "summary": "Policed by South Lake Minnetonka Police, which ends its Flock program on Dec 31, 2026.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "name": "Mound",
+      "status": "none",
+      "since": "2026-10-08",
+      "confidence": "high",
+      "summary": "Policed by Orono Police. Mound never pursued Flock and no cameras were ever installed.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "name": "Minnetonka Beach",
+      "status": "none",
+      "since": "2026-10-08",
+      "confidence": "high",
+      "summary": "The city has no plate reader cameras.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "name": "Woodland",
+      "status": "active",
+      "vendor": "Flock Safety",
+      "since": "2026-10-08",
+      "confidence": "high",
+      "summary": "Has an active Flock contract.",
+      "sources": [
+        {
+          "url": null,
+          "title": "Editor note",
+          "outlet": "Reader Map editor",
+          "date": "2026-10-08"
+        }
+      ]
+    }
+  ],
+  "trackerActive": {
+    "_about": "Active Flock deployments with no reported cancellation, from the mnprivacy.org tracker (built from state-mandated BCA reports). Camera counts are reported counts.",
+    "source": {
+      "url": "https://www.mnprivacy.org/tracker/",
+      "title": "Minnesota ALPR tracker",
+      "outlet": "mnprivacy.org",
+      "date": "2026-09-30"
+    },
+    "cities": {
+      "Blaine": 32,
+      "Coon Rapids": 18,
+      "Stillwater": 18,
+      "Minnetonka": 13,
+      "Eagan": 13,
+      "Cottage Grove": 12,
+      "Mounds View": 10,
+      "Wayzata": 10,
+      "Hopkins": 8,
+      "New Brighton": 8,
+      "Rogers": 8,
+      "New Hope": 9,
+      "Prior Lake": 9,
+      "South St. Paul": 9,
+      "Corcoran": 9,
+      "Anoka": 7,
+      "Roseville": 6,
+      "Medina": 6,
+      "Deephaven": 5,
+      "Osseo": 4,
+      "Minnetrista": 4,
+      "Oakdale": 3,
+      "Robbinsdale": 2,
+      "Orono": 2,
+      "Spring Lake Park": 2,
+      "Forest Lake": 2,
+      "Maple Grove": 1,
+      "Golden Valley": null,
+      "White Bear Lake": null,
+      "Farmington": null,
+      "Rosemount": null,
+      "North St. Paul": null
+    }
+  },
+  "sheriffContract": {
+    "_about": "Cities with no police department of their own, mapped to the agency that polices them (a county sheriff or a contract police department). They inherit that agency's status until their own is known. Townships are added automatically.",
+    "ramsey-sheriff": [
+      "Arden Hills",
+      "Falcon Heights",
+      "Gem Lake",
+      "Little Canada",
+      "North Oaks",
+      "Shoreview",
+      "Vadnais Heights"
+    ],
+    "anoka-sheriff": [
+      "Andover",
+      "Bethel",
+      "East Bethel",
+      "Ham Lake",
+      "Nowthen",
+      "Oak Grove"
+    ],
+    "west-hennepin-ps": [
+      "Independence",
+      "Maple Plain"
+    ],
+    "south-lake-mtka-pd": [
+      "Shorewood",
+      "Excelsior",
+      "Greenwood",
+      "Tonka Bay"
+    ],
+    "orono-pd": [
+      "Mound"
+    ]
+  }
+}

@@ -1,0 +1,1016 @@
+{
+  "fetchedAt": "2026-10-07T17:42:34.830Z",
+  "cities": {
+    "663529": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "663589": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "663798": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "663965": {
+      "total": 8,
+      "vendors": {
+        "flock": 8
+      },
+      "operators": {
+        "unspecified": 8
+      }
+    },
+    "664202": {
+      "total": 4,
+      "vendors": {
+        "flock": 1,
+        "unknown": 3
+      },
+      "operators": {
+        "unspecified": 1,
+        "Airport Police Department": 3
+      }
+    },
+    "664386": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "Dakota County Sheriff's Office": 1
+      }
+    },
+    "664569": {
+      "total": 3,
+      "vendors": {
+        "flock": 3
+      },
+      "operators": {
+        "unspecified": 3
+      }
+    },
+    "664793": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "665126": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "665966": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2393428": {
+      "total": 26,
+      "vendors": {
+        "flock": 26
+      },
+      "operators": {
+        "unspecified": 26
+      }
+    },
+    "2393429": {
+      "total": 28,
+      "vendors": {
+        "flock": 28
+      },
+      "operators": {
+        "unspecified": 27,
+        "The Home Depot": 1
+      }
+    },
+    "2393472": {
+      "total": 14,
+      "vendors": {
+        "flock": 14
+      },
+      "operators": {
+        "unspecified": 14
+      }
+    },
+    "2393579": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "Dakota County Sheriff's Office": 1
+      }
+    },
+    "2393607": {
+      "total": 9,
+      "vendors": {
+        "flock": 9
+      },
+      "operators": {
+        "unspecified": 9
+      }
+    },
+    "2393610": {
+      "total": 3,
+      "vendors": {
+        "flock": 3
+      },
+      "operators": {
+        "unspecified": 3
+      }
+    },
+    "2393628": {
+      "total": 33,
+      "vendors": {
+        "flock": 31,
+        "unknown": 2
+      },
+      "operators": {
+        "unspecified": 29,
+        "The Home Depot": 4
+      }
+    },
+    "2393634": {
+      "total": 6,
+      "vendors": {
+        "unknown": 1,
+        "flock": 5
+      },
+      "operators": {
+        "unspecified": 6
+      }
+    },
+    "2393644": {
+      "total": 143,
+      "vendors": {
+        "flock": 137,
+        "motorola": 6
+      },
+      "operators": {
+        "unspecified": 143
+      }
+    },
+    "2393683": {
+      "total": 3,
+      "vendors": {
+        "flock": 3
+      },
+      "operators": {
+        "unspecified": 3
+      }
+    },
+    "2393799": {
+      "total": 1,
+      "vendors": {
+        "motorola": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2393809": {
+      "total": 5,
+      "vendors": {
+        "flock": 5
+      },
+      "operators": {
+        "unspecified": 5
+      }
+    },
+    "2393887": {
+      "total": 4,
+      "vendors": {
+        "flock": 4
+      },
+      "operators": {
+        "unspecified": 4
+      }
+    },
+    "2393904": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "Wright County Sheriffs Office": 1
+      }
+    },
+    "2393954": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2393964": {
+      "total": 9,
+      "vendors": {
+        "flock": 9
+      },
+      "operators": {
+        "unspecified": 9
+      }
+    },
+    "2393967": {
+      "total": 5,
+      "vendors": {
+        "flock": 5
+      },
+      "operators": {
+        "unspecified": 3,
+        "The Home Depot": 2
+      }
+    },
+    "2393979": {
+      "total": 2,
+      "vendors": {
+        "other": 1,
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2394183": {
+      "total": 42,
+      "vendors": {
+        "flock": 40,
+        "unknown": 1,
+        "genetec": 1
+      },
+      "operators": {
+        "Lowes": 2,
+        "unspecified": 34,
+        "Blaine PD": 3,
+        "The Home Depot": 3
+      }
+    },
+    "2394198": {
+      "total": 19,
+      "vendors": {
+        "flock": 17,
+        "unknown": 2
+      },
+      "operators": {
+        "Great Wolf Lodge": 2,
+        "unspecified": 17
+      }
+    },
+    "2394245": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "SLMPD": 1
+      }
+    },
+    "2394273": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2394288": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2394320": {
+      "total": 5,
+      "vendors": {
+        "flock": 2,
+        "motorola": 3
+      },
+      "operators": {
+        "unspecified": 5
+      }
+    },
+    "2394417": {
+      "total": 21,
+      "vendors": {
+        "flock": 13,
+        "genetec": 5,
+        "unknown": 3
+      },
+      "operators": {
+        "Edina Police Department": 1,
+        "unspecified": 12,
+        "Hopkins PD": 8
+      }
+    },
+    "2394486": {
+      "total": 4,
+      "vendors": {
+        "flock": 4
+      },
+      "operators": {
+        "unspecified": 4
+      }
+    },
+    "2394495": {
+      "total": 3,
+      "vendors": {
+        "flock": 3
+      },
+      "operators": {
+        "unspecified": 3
+      }
+    },
+    "2394503": {
+      "total": 3,
+      "vendors": {
+        "other": 2,
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 3
+      }
+    },
+    "2394586": {
+      "total": 15,
+      "vendors": {
+        "flock": 15
+      },
+      "operators": {
+        "Eagan": 7,
+        "Flock Safety": 1,
+        "unspecified": 6,
+        "The Home Depot": 1
+      }
+    },
+    "2394596": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2394614": {
+      "total": 37,
+      "vendors": {
+        "flock": 21,
+        "motorola": 13,
+        "unknown": 1,
+        "genetec": 2
+      },
+      "operators": {
+        "unspecified": 36,
+        "Eden Prairie PD": 1
+      }
+    },
+    "2394621": {
+      "total": 46,
+      "vendors": {
+        "unknown": 1,
+        "flock": 45
+      },
+      "operators": {
+        "Flock Safety": 1,
+        "Edina Police Department": 6,
+        "unspecified": 39
+      }
+    },
+    "2394650": {
+      "total": 20,
+      "vendors": {
+        "flock": 19,
+        "genetec": 1
+      },
+      "operators": {
+        "Elk River Police Department": 13,
+        "Elk River PD": 2,
+        "Elk River Sportsmans Club": 1,
+        "Home Depot": 3,
+        "Metro Transit": 1
+      }
+    },
+    "2394717": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "South Lake Minnetonka Police Department": 1
+      }
+    },
+    "2394738": {
+      "total": 8,
+      "vendors": {
+        "motorola": 1,
+        "other": 7
+      },
+      "operators": {
+        "unspecified": 8
+      }
+    },
+    "2394789": {
+      "total": 16,
+      "vendors": {
+        "flock": 16
+      },
+      "operators": {
+        "unspecified": 14,
+        "The Home Depot": 2
+      }
+    },
+    "2394826": {
+      "total": 23,
+      "vendors": {
+        "flock": 22,
+        "other": 1
+      },
+      "operators": {
+        "unspecified": 23
+      }
+    },
+    "2394924": {
+      "total": 6,
+      "vendors": {
+        "flock": 6
+      },
+      "operators": {
+        "unspecified": 6
+      }
+    },
+    "2395084": {
+      "total": 9,
+      "vendors": {
+        "flock": 7,
+        "unknown": 2
+      },
+      "operators": {
+        "unspecified": 9
+      }
+    },
+    "2395118": {
+      "total": 10,
+      "vendors": {
+        "flock": 8,
+        "unknown": 2
+      },
+      "operators": {
+        "unspecified": 9,
+        "Mounds View Police Department": 1
+      }
+    },
+    "2395187": {
+      "total": 12,
+      "vendors": {
+        "flock": 10,
+        "other": 2
+      },
+      "operators": {
+        "unspecified": 9,
+        "New Brighton Police Department": 3
+      }
+    },
+    "2395201": {
+      "total": 9,
+      "vendors": {
+        "flock": 9
+      },
+      "operators": {
+        "unspecified": 9
+      }
+    },
+    "2395227": {
+      "total": 15,
+      "vendors": {
+        "flock": 2,
+        "motorola": 13
+      },
+      "operators": {
+        "unspecified": 15
+      }
+    },
+    "2395259": {
+      "total": 16,
+      "vendors": {
+        "flock": 16
+      },
+      "operators": {
+        "unspecified": 16
+      }
+    },
+    "2395261": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2395285": {
+      "total": 5,
+      "vendors": {
+        "flock": 5
+      },
+      "operators": {
+        "unspecified": 5
+      }
+    },
+    "2395287": {
+      "total": 14,
+      "vendors": {
+        "flock": 7,
+        "other": 7
+      },
+      "operators": {
+        "unspecified": 14
+      }
+    },
+    "2395345": {
+      "total": 109,
+      "vendors": {
+        "flock": 55,
+        "motorola": 2,
+        "genetec": 4,
+        "other": 46,
+        "axon": 2
+      },
+      "operators": {
+        "University of Minnesota Police Department": 2,
+        "unspecified": 53,
+        "Minneapolis, MN PD": 1,
+        "Hennepin County Sheriff's Office": 5,
+        "Minneapolis Police Department": 45,
+        "The Home Depot": 2,
+        "Stadium Village Flats": 1
+      }
+    },
+    "2395350": {
+      "total": 24,
+      "vendors": {
+        "motorola": 2,
+        "flock": 22
+      },
+      "operators": {
+        "Minnetonka Police Department": 5,
+        "Bet Shalom Congregation": 1,
+        "unspecified": 14,
+        "Minnetonka High School": 4
+      }
+    },
+    "2395352": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2395420": {
+      "total": 9,
+      "vendors": {
+        "flock": 9
+      },
+      "operators": {
+        "unspecified": 9
+      }
+    },
+    "2395429": {
+      "total": 4,
+      "vendors": {
+        "flock": 4
+      },
+      "operators": {
+        "unspecified": 4
+      }
+    },
+    "2395589": {
+      "total": 4,
+      "vendors": {
+        "flock": 3,
+        "motorola": 1
+      },
+      "operators": {
+        "unspecified": 4
+      }
+    },
+    "2395609": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2395614": {
+      "total": 26,
+      "vendors": {
+        "flock": 24,
+        "motorola": 1,
+        "other": 1
+      },
+      "operators": {
+        "unspecified": 26
+      }
+    },
+    "2395725": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2395756": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2395818": {
+      "total": 5,
+      "vendors": {
+        "flock": 2,
+        "motorola": 1,
+        "other": 2
+      },
+      "operators": {
+        "unspecified": 5
+      }
+    },
+    "2395838": {
+      "total": 7,
+      "vendors": {
+        "flock": 7
+      },
+      "operators": {
+        "unspecified": 4,
+        "The Home Depot": 3
+      }
+    },
+    "2395846": {
+      "total": 22,
+      "vendors": {
+        "flock": 22
+      },
+      "operators": {
+        "unspecified": 21,
+        "The Home Depot": 1
+      }
+    },
+    "2395854": {
+      "total": 18,
+      "vendors": {
+        "flock": 15,
+        "unknown": 3
+      },
+      "operators": {
+        "unspecified": 15,
+        "Shakopee": 2,
+        "Shakopee Police": 1
+      }
+    },
+    "2395877": {
+      "total": 2,
+      "vendors": {
+        "flock": 1,
+        "other": 1
+      },
+      "operators": {
+        "South Lake Minnetonka Police Department": 1,
+        "unspecified": 1
+      }
+    },
+    "2395918": {
+      "total": 9,
+      "vendors": {
+        "flock": 9
+      },
+      "operators": {
+        "unspecified": 9
+      }
+    },
+    "2395934": {
+      "total": 5,
+      "vendors": {
+        "flock": 5
+      },
+      "operators": {
+        "unspecified": 5
+      }
+    },
+    "2395969": {
+      "total": 26,
+      "vendors": {
+        "flock": 25,
+        "motorola": 1
+      },
+      "operators": {
+        "Stillwater Police Department": 1,
+        "Flock Safety": 2,
+        "unspecified": 23
+      }
+    },
+    "2396081": {
+      "total": 4,
+      "vendors": {
+        "flock": 4
+      },
+      "operators": {
+        "unspecified": 2,
+        "Orono Police Department": 1,
+        "Woodhill Country Club": 1
+      }
+    },
+    "2396098": {
+      "total": 4,
+      "vendors": {
+        "flock": 4
+      },
+      "operators": {
+        "unspecified": 4
+      }
+    },
+    "2396242": {
+      "total": 33,
+      "vendors": {
+        "flock": 32,
+        "unknown": 1
+      },
+      "operators": {
+        "unspecified": 33
+      }
+    },
+    "2396284": {
+      "total": 12,
+      "vendors": {
+        "flock": 12
+      },
+      "operators": {
+        "unspecified": 12
+      }
+    },
+    "2396311": {
+      "total": 9,
+      "vendors": {
+        "unknown": 1,
+        "flock": 8
+      },
+      "operators": {
+        "Ramsey Police Department": 3,
+        "Ramsey County Police Department": 4,
+        "unspecified": 2
+      }
+    },
+    "2396362": {
+      "total": 19,
+      "vendors": {
+        "flock": 14,
+        "unknown": 1,
+        "other": 4
+      },
+      "operators": {
+        "Richfield, MN PD": 1,
+        "unspecified": 17,
+        "Flock Safety": 1
+      }
+    },
+    "2396388": {
+      "total": 2,
+      "vendors": {
+        "flock": 2
+      },
+      "operators": {
+        "unspecified": 2
+      }
+    },
+    "2396406": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "Wright County Sheriffs Office": 1
+      }
+    },
+    "2396415": {
+      "total": 9,
+      "vendors": {
+        "flock": 9
+      },
+      "operators": {
+        "City of Rogers MN": 1,
+        "Rogers Police Department": 7,
+        "unspecified": 1
+      }
+    },
+    "2396435": {
+      "total": 16,
+      "vendors": {
+        "unknown": 4,
+        "flock": 11,
+        "motorola": 1
+      },
+      "operators": {
+        "Flock Safety": 4,
+        "Roseville Police Department": 8,
+        "unspecified": 4
+      }
+    },
+    "2396500": {
+      "total": 32,
+      "vendors": {
+        "flock": 32
+      },
+      "operators": {
+        "Edina Police Department": 1,
+        "unspecified": 29,
+        "The Home Depot": 1,
+        "St louis park PD": 1
+      }
+    },
+    "2396511": {
+      "total": 48,
+      "vendors": {
+        "flock": 32,
+        "genetec": 6,
+        "motorola": 2,
+        "other": 7,
+        "axon": 1
+      },
+      "operators": {
+        "Ramsey County Sheriff's Office": 1,
+        "unspecified": 45,
+        "Temple of Aaron": 2
+      }
+    },
+    "2396516": {
+      "total": 12,
+      "vendors": {
+        "motorola": 3,
+        "flock": 9
+      },
+      "operators": {
+        "unspecified": 12
+      }
+    },
+    "2396543": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2397036": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "South Lake Minnetonka PD": 1
+      }
+    },
+    "2397106": {
+      "total": 3,
+      "vendors": {
+        "flock": 2,
+        "other": 1
+      },
+      "operators": {
+        "unspecified": 3
+      }
+    },
+    "2397135": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2397235": {
+      "total": 10,
+      "vendors": {
+        "unknown": 1,
+        "flock": 9
+      },
+      "operators": {
+        "Flock Safety": 1,
+        "unspecified": 9
+      }
+    },
+    "2397275": {
+      "total": 7,
+      "vendors": {
+        "other": 1,
+        "flock": 6
+      },
+      "operators": {
+        "unspecified": 4,
+        "Lowe's": 3
+      }
+    },
+    "2397299": {
+      "total": 4,
+      "vendors": {
+        "flock": 1,
+        "other": 3
+      },
+      "operators": {
+        "unspecified": 4
+      }
+    },
+    "2397369": {
+      "total": 103,
+      "vendors": {
+        "flock": 97,
+        "other": 4,
+        "motorola": 2
+      },
+      "operators": {
+        "Flock Safety": 7,
+        "unspecified": 96
+      }
+    },
+    "2397370": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
+    "2397388": {
+      "total": 6,
+      "vendors": {
+        "flock": 6
+      },
+      "operators": {
+        "unspecified": 6
+      }
+    },
+    "2437910": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "Anoka County Sheriff’s Office": 1
+      }
+    },
+    "2831011": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "Dakota County Sheriff's Office": 1
+      }
+    }
+  }
+}

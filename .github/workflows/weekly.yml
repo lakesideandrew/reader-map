@@ -1,0 +1,78 @@
+# Weekly data refresh: OpenStreetMap cameras, then the AI news check.
+# Commits any changed data and redeploys the site.
+#
+# Needs repository secret ANTHROPIC_API_KEY. Optional repository variables:
+# ANTHROPIC_MODEL, MAX_RUN_SPEND_USD, ROTATION_BATCHES.
+name: Weekly update
+
+on:
+  schedule:
+    - cron: "0 11 * * 1" # Mondays 11:00 UTC = 6 a.m. Central (5 a.m. in winter)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Run the news check without changing data"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+
+      - name: Refresh camera locations from OpenStreetMap
+        # If Overpass is down, keep last week's cameras and carry on.
+        continue-on-error: true
+        run: npm run refresh:cameras
+
+      - name: AI news check
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+          MAX_RUN_SPEND_USD: ${{ vars.MAX_RUN_SPEND_USD }}
+          ROTATION_BATCHES: ${{ vars.ROTATION_BATCHES }}
+        run: npm run ai:check -- ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Keep the run log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-run-${{ github.run_id }}
+          path: data/ai-runs/*.json
+          if-no-files-found: ignore
+          retention-days: 90
+
+      - name: Commit data changes
+        # Runs even if the news check failed, so the camera refresh is kept.
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "reader-map bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add web/data
+          if git diff --cached --quiet; then
+            echo "No data changes this week."
+          else
+            git commit -m "Weekly data update $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+  deploy:
+    needs: update
+    if: ${{ !cancelled() }}
+    uses: ./.github/workflows/pages.yml

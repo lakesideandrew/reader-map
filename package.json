@@ -1,0 +1,26 @@
+{
+  "name": "reader-map",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Twin Cities map of city status on Flock Safety and other automated license plate reader (ALPR) contracts.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "serve": "node scripts/serve.js",
+    "seed:boundaries": "node scripts/seed-boundaries.js",
+    "seed:cities": "node scripts/seed-cities.js",
+    "seed:water": "node scripts/seed-water.js",
+    "refresh:cameras": "node scripts/refresh-cameras.js",
+    "ai:check": "node scripts/ai-news-check.js",
+    "review": "node scripts/review.js",
+    "weekly": "npm run refresh:cameras && npm run ai:check",
+    "test": "node --test \"scripts/test/*.test.js\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "polygon-clipping": "^0.15.7",
+    "zod": "^4.6.5"
+  }
+}

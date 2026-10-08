@@ -1,0 +1,26 @@
+{
+  "_about": "Sample extraction output for exercising the pipeline without the API: npm run ai:check -- --dry-run --fixture scripts/test/fixture-findings.json",
+  "knownUrls": [
+    "https://www.startribune.com/example-richfield-ends-flock/1",
+    "https://example-blog.com/bloomington-alpr",
+    "https://www.mprnews.org/story/2026/09/30/example-lakeville"
+  ],
+  "findings": [
+    { "place": "Richfield", "proposed_status": "cancelled", "vendor": "Flock Safety", "cameras": 10, "sharing_restricted": null,
+      "effective_date": "2026-10-05", "summary": "Council voted 4-1 to end the Flock contract.", "evidence": "Article reports the vote.",
+      "url": "https://www.startribune.com/example-richfield-ends-flock/1", "title": "Richfield ends Flock", "outlet": "Star Tribune",
+      "confidence": "high", "conclusive": true },
+    { "place": "Bloomington", "proposed_status": "other_vendor", "vendor": "Motorola", "cameras": null, "sharing_restricted": null,
+      "effective_date": null, "summary": "Police use Motorola plate readers.", "evidence": "Blog post mentions Motorola readers.",
+      "url": "https://example-blog.com/bloomington-alpr", "title": "Bloomington ALPR", "outlet": "Example Blog",
+      "confidence": "medium", "conclusive": false },
+    { "place": "Lakeville", "proposed_status": "pending", "vendor": null, "cameras": null, "sharing_restricted": null,
+      "effective_date": "2026-10-20", "summary": "Council will vote on rescinding the contract.", "evidence": "Vote scheduled.",
+      "url": "https://www.mprnews.org/story/2026/09/30/example-lakeville", "title": "Lakeville to vote", "outlet": "MPR News",
+      "confidence": "high", "conclusive": false },
+    { "place": "Shoreview", "proposed_status": "none", "vendor": null, "cameras": null, "sharing_restricted": null,
+      "effective_date": "2026-10-01", "summary": "Invented source.", "evidence": "n/a",
+      "url": "https://www.startribune.com/not-in-search-results", "title": "x", "outlet": "Star Tribune",
+      "confidence": "high", "conclusive": true }
+  ]
+}

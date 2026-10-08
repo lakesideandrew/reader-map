@@ -1,0 +1,368 @@
+{
+  "hennepin-sheriff": {
+    "vendor": "Flock Safety",
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": "2026-10-01",
+    "summary": "Active. Removed 2 federal agencies from its access list. A Minneapolis council resolution urges cancellation.",
+    "sources": [
+      {
+        "url": "https://kstp.com/kstp-news/local-news/minneapolis-city-council-resolution-calls-on-u-of-m-hennepin-county-to-ditch-flock-cameras/",
+        "title": "Minneapolis council resolution on Flock",
+        "outlet": "KSTP",
+        "date": "2026-10-01"
+      }
+    ],
+    "confidence": "high",
+    "cities": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "hennepin-sheriff",
+    "name": "Hennepin County Sheriff",
+    "kind": "sheriff",
+    "county": "Hennepin",
+    "status": "active"
+  },
+  "ramsey-sheriff": {
+    "vendor": "Flock Safety",
+    "cameras": 37,
+    "sharing_restricted": false,
+    "since": "2026-08-26",
+    "summary": "About 37 cameras. The sheriff has refused St. Paul's call to end the program.",
+    "sources": [
+      {
+        "url": "https://www.fox9.com/news/st-paul-city-council-flock-cameras-aug-26-2026",
+        "title": "St. Paul City Council on Flock cameras",
+        "outlet": "FOX 9",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": "high",
+    "cities": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "ramsey-sheriff",
+    "name": "Ramsey County Sheriff",
+    "kind": "sheriff",
+    "county": "Ramsey",
+    "status": "active"
+  },
+  "anoka-sheriff": {
+    "vendor": "Flock Safety",
+    "cameras": 75,
+    "sharing_restricted": false,
+    "since": "2026-06-30",
+    "summary": "Signed a $174,999 one-year contract for about 75 cameras and 10 drones, $1 under the county board approval threshold. Removed 2 federal agencies from access.",
+    "sources": [
+      {
+        "url": "https://sahanjournal.com/public-safety/anoka-county-sheriffs-office-brad-wise-flock-cameras-contract/",
+        "title": "Anoka County Sheriff's Flock contract",
+        "outlet": "Sahan Journal",
+        "date": "2026-06-30"
+      }
+    ],
+    "confidence": "high",
+    "cities": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "anoka-sheriff",
+    "name": "Anoka County Sheriff",
+    "kind": "sheriff",
+    "county": "Anoka",
+    "status": "active"
+  },
+  "dakota-sheriff": {
+    "vendor": "Flock Safety",
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock agency in state reports.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "cities": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "dakota-sheriff",
+    "name": "Dakota County Sheriff",
+    "kind": "sheriff",
+    "county": "Dakota",
+    "status": "active"
+  },
+  "sherburne-sheriff": {
+    "vendor": "Flock Safety",
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": "2026-09-01",
+    "summary": "Program paused, per a September 2026 roundup of Minnesota communities.",
+    "sources": [
+      {
+        "url": "https://www.fox9.com/news/flock-cameras-privacy-concerns-where-minnesota-communities-stand-sept-2026",
+        "title": "Where Minnesota communities stand on Flock",
+        "outlet": "FOX 9",
+        "date": "2026-09-01"
+      }
+    ],
+    "confidence": "medium",
+    "cities": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "sherburne-sheriff",
+    "name": "Sherburne County Sheriff",
+    "kind": "sheriff",
+    "county": "Sherburne",
+    "status": "pending"
+  },
+  "washington-sheriff": {
+    "vendor": null,
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "cities": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "id": "washington-sheriff",
+    "name": "Washington County Sheriff",
+    "kind": "sheriff",
+    "county": "Washington",
+    "status": "unknown"
+  },
+  "carver-sheriff": {
+    "vendor": null,
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "cities": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "id": "carver-sheriff",
+    "name": "Carver County Sheriff",
+    "kind": "sheriff",
+    "county": "Carver",
+    "status": "unknown"
+  },
+  "scott-sheriff": {
+    "vendor": null,
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "cities": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "id": "scott-sheriff",
+    "name": "Scott County Sheriff",
+    "kind": "sheriff",
+    "county": "Scott",
+    "status": "unknown"
+  },
+  "wright-sheriff": {
+    "vendor": null,
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "cities": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "id": "wright-sheriff",
+    "name": "Wright County Sheriff",
+    "kind": "sheriff",
+    "county": "Wright",
+    "status": "unknown"
+  },
+  "chisago-sheriff": {
+    "vendor": null,
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "cities": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "id": "chisago-sheriff",
+    "name": "Chisago County Sheriff",
+    "kind": "sheriff",
+    "county": "Chisago",
+    "status": "unknown"
+  },
+  "rice-sheriff": {
+    "vendor": null,
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "cities": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "id": "rice-sheriff",
+    "name": "Rice County Sheriff",
+    "kind": "sheriff",
+    "county": "Rice",
+    "status": "unknown"
+  },
+  "umn-pd": {
+    "vendor": "Flock Safety",
+    "cameras": 13,
+    "sharing_restricted": true,
+    "since": "2026-09-11",
+    "summary": "Removed 1 Cedar-Riverside camera in September. About 13 Flock cameras remain, with data restricted to Minnesota agencies.",
+    "sources": [
+      {
+        "url": "https://www.axios.com/local/twin-cities/2026/09/11/university-of-minnesota-flock-camera-west-bank",
+        "title": "U of M removes West Bank Flock camera",
+        "outlet": "Axios Twin Cities",
+        "date": "2026-09-11"
+      }
+    ],
+    "confidence": "high",
+    "cities": [
+      "Minneapolis",
+      "Saint Paul"
+    ],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "umn-pd",
+    "name": "University of Minnesota Police",
+    "kind": "campus",
+    "county": "Hennepin",
+    "status": "active"
+  },
+  "msp-airport-pd": {
+    "vendor": "Flock Safety",
+    "cameras": 2,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "2 cameras listed in state reports.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "cities": [
+      "Fort Snelling"
+    ],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "msp-airport-pd",
+    "name": "MSP Airport Police",
+    "kind": "airport",
+    "county": "Hennepin",
+    "status": "active"
+  },
+  "west-hennepin-ps": {
+    "vendor": "Flock Safety",
+    "cameras": 3,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Serves Independence and Maple Plain. 3 cameras listed in state reports.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "cities": [
+      "Independence",
+      "Maple Plain"
+    ],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "id": "west-hennepin-ps",
+    "name": "West Hennepin Public Safety",
+    "kind": "police",
+    "county": "Hennepin",
+    "status": "active"
+  },
+  "south-lake-mtka-pd": {
+    "vendor": "Flock Safety",
+    "cameras": null,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "Serves Shorewood, Excelsior, Greenwood and Tonka Bay. Its Flock program ends Dec 31, 2026.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "high",
+    "cities": [
+      "Shorewood",
+      "Excelsior",
+      "Greenwood",
+      "Tonka Bay"
+    ],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "id": "south-lake-mtka-pd",
+    "name": "South Lake Minnetonka Police",
+    "kind": "police",
+    "county": "Hennepin",
+    "status": "pending",
+    "set_by": "manual"
+  },
+  "orono-pd": {
+    "vendor": "Flock Safety",
+    "cameras": 2,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Serves Orono and Mound. State reports list 2 Flock cameras in Orono. None were ever installed in Mound.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      },
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "medium",
+    "cities": [
+      "Orono",
+      "Mound"
+    ],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "id": "orono-pd",
+    "name": "Orono Police",
+    "kind": "police",
+    "county": "Hennepin",
+    "status": "active",
+    "set_by": "manual"
+  }
+}

@@ -1,0 +1,4439 @@
+{
+  "663529": {
+    "id": "663529",
+    "name": "Baytown Twp",
+    "kind": "township",
+    "counties": [
+      "Washington"
+    ],
+    "population": 2115,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "washington-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663571": {
+    "id": "663571",
+    "name": "Benton Twp",
+    "kind": "township",
+    "counties": [
+      "Carver"
+    ],
+    "population": 738,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "carver-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663589": {
+    "id": "663589",
+    "name": "Big Lake Twp",
+    "kind": "township",
+    "counties": [
+      "Sherburne"
+    ],
+    "population": 8147,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "sherburne-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663696": {
+    "id": "663696",
+    "name": "Buffalo Twp",
+    "kind": "township",
+    "counties": [
+      "Wright"
+    ],
+    "population": 1732,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "wright-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663763": {
+    "id": "663763",
+    "name": "Castle Rock Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 1330,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663767": {
+    "id": "663767",
+    "name": "Cedar Lake Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 3078,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663797": {
+    "id": "663797",
+    "name": "Chisago City",
+    "kind": "city",
+    "counties": [
+      "Chisago"
+    ],
+    "population": 5765,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663798": {
+    "id": "663798",
+    "name": "Chisago Lake Twp",
+    "kind": "township",
+    "counties": [
+      "Chisago"
+    ],
+    "population": 4928,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "chisago-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663913": {
+    "id": "663913",
+    "name": "Dahlgren Twp",
+    "kind": "township",
+    "counties": [
+      "Carver"
+    ],
+    "population": 1442,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "carver-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663965": {
+    "id": "663965",
+    "name": "Denmark Twp",
+    "kind": "township",
+    "counties": [
+      "Washington"
+    ],
+    "population": 1843,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "washington-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "663994": {
+    "id": "663994",
+    "name": "Douglas Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 742,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664113": {
+    "id": "664113",
+    "name": "Eureka Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 1362,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664202": {
+    "id": "664202",
+    "name": "Fort Snelling",
+    "kind": "unorganized",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 0,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "msp-airport-pd",
+      "hennepin-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664219": {
+    "id": "664219",
+    "name": "Franklin Twp",
+    "kind": "township",
+    "counties": [
+      "Wright"
+    ],
+    "population": 2937,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "wright-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664346": {
+    "id": "664346",
+    "name": "Greenvale Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 784,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664354": {
+    "id": "664354",
+    "name": "Grey Cloud Island Twp",
+    "kind": "township",
+    "counties": [
+      "Washington"
+    ],
+    "population": 285,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "washington-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664386": {
+    "id": "664386",
+    "name": "Hampton Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 826,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664443": {
+    "id": "664443",
+    "name": "Helena Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 1817,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664569": {
+    "id": "664569",
+    "name": "Jackson Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 1513,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664705": {
+    "id": "664705",
+    "name": "Laketown Twp",
+    "kind": "township",
+    "counties": [
+      "Carver"
+    ],
+    "population": 1986,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "carver-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664793": {
+    "id": "664793",
+    "name": "Linwood Twp",
+    "kind": "township",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 5279,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "anoka-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664829": {
+    "id": "664829",
+    "name": "Louisville Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 1318,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664919": {
+    "id": "664919",
+    "name": "Marshan Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 1139,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "664932": {
+    "id": "664932",
+    "name": "May Twp",
+    "kind": "township",
+    "counties": [
+      "Washington"
+    ],
+    "population": 2664,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "washington-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665015": {
+    "id": "665015",
+    "name": "Monticello Twp",
+    "kind": "township",
+    "counties": [
+      "Wright"
+    ],
+    "population": 3353,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "wright-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665104": {
+    "id": "665104",
+    "name": "New Market Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 3551,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665126": {
+    "id": "665126",
+    "name": "Nininger Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 854,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665381": {
+    "id": "665381",
+    "name": "Ravenna Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 2311,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665436": {
+    "id": "665436",
+    "name": "Rockford Twp",
+    "kind": "township",
+    "counties": [
+      "Wright"
+    ],
+    "population": 3583,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "wright-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665519": {
+    "id": "665519",
+    "name": "Saint Lawrence Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 484,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665541": {
+    "id": "665541",
+    "name": "Sand Creek Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 1477,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665551": {
+    "id": "665551",
+    "name": "San Francisco Twp",
+    "kind": "township",
+    "counties": [
+      "Carver"
+    ],
+    "population": 882,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "carver-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665676": {
+    "id": "665676",
+    "name": "Spring Lake Twp",
+    "kind": "township",
+    "counties": [
+      "Scott"
+    ],
+    "population": 3468,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "scott-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665712": {
+    "id": "665712",
+    "name": "Stillwater Twp",
+    "kind": "township",
+    "counties": [
+      "Washington"
+    ],
+    "population": 1844,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "washington-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665860": {
+    "id": "665860",
+    "name": "Vermillion Twp",
+    "kind": "township",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 1267,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "dakota-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665887": {
+    "id": "665887",
+    "name": "Waconia Twp",
+    "kind": "township",
+    "counties": [
+      "Carver"
+    ],
+    "population": 1052,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "carver-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665931": {
+    "id": "665931",
+    "name": "Watertown Twp",
+    "kind": "township",
+    "counties": [
+      "Carver"
+    ],
+    "population": 1193,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "carver-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665945": {
+    "id": "665945",
+    "name": "Webster Twp",
+    "kind": "township",
+    "counties": [
+      "Rice"
+    ],
+    "population": 1815,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "rice-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665966": {
+    "id": "665966",
+    "name": "West Lakeland Twp",
+    "kind": "township",
+    "counties": [
+      "Washington"
+    ],
+    "population": 3941,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "washington-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "665981": {
+    "id": "665981",
+    "name": "White Bear Twp",
+    "kind": "township",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 10807,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393428": {
+    "id": "2393428",
+    "name": "Brooklyn Center",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 33938,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 11,
+    "sharing_restricted": false,
+    "since": "2026-09-30",
+    "summary": "State reports list 11 active cameras, but one outlet reported the city cut ties. Needs confirmation.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "low",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393429": {
+    "id": "2393429",
+    "name": "Brooklyn Park",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 84993,
+    "status": "other_vendor",
+    "vendor": "Axon",
+    "cameras_reported": 6,
+    "sharing_restricted": false,
+    "since": "2025-12-01",
+    "summary": "Cancelled its Flock contract (8 cameras) in December 2025 and switched to Axon plate readers: 4 installed, 2 more planned.",
+    "sources": [
+      {
+        "url": "https://www.kare11.com/article/news/local/breaking-the-news/multiple-cities-minnesota-cancel-contracts-flock/89-bfd002b1-6830-4139-8287-cea513e602a0",
+        "title": "Multiple Minnesota cities cancel Flock contracts",
+        "outlet": "KARE 11",
+        "date": "2025-12-01"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393472": {
+    "id": "2393472",
+    "name": "Burnsville",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 64522,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 20,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Council endorsed 20 Flock cameras at about $65,000 a year.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393526": {
+    "id": "2393526",
+    "name": "Circle Pines",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 4915,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393579": {
+    "id": "2393579",
+    "name": "Coates",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 144,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393601": {
+    "id": "2393601",
+    "name": "Cologne",
+    "kind": "city",
+    "counties": [
+      "Carver"
+    ],
+    "population": 2062,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393607": {
+    "id": "2393607",
+    "name": "Columbia Heights",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 21592,
+    "status": "cancelled",
+    "vendor": "Flock Safety",
+    "cameras_reported": 12,
+    "sharing_restricted": false,
+    "since": "2026-06-08",
+    "summary": "Council voted unanimously to cancel the contract. All 12 cameras were disconnected and removed.",
+    "sources": [
+      {
+        "url": "https://www.mprnews.org/story/2026/06/09/columbia-heights-city-council-votes-end-flock-safety-camera-contract",
+        "title": "Columbia Heights votes to end Flock contract",
+        "outlet": "MPR News",
+        "date": "2026-06-09"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393610": {
+    "id": "2393610",
+    "name": "Columbus",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 4172,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393628": {
+    "id": "2393628",
+    "name": "Coon Rapids",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 63415,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 18,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393634": {
+    "id": "2393634",
+    "name": "Corcoran",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 7430,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 9,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393644": {
+    "id": "2393644",
+    "name": "Cottage Grove",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 41027,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 12,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393683": {
+    "id": "2393683",
+    "name": "Crystal",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 22791,
+    "status": "cancelled",
+    "vendor": "Flock Safety",
+    "cameras_reported": 6,
+    "sharing_restricted": false,
+    "since": "2026-09-09",
+    "summary": "Police chief ended the program. All 6 cameras were removed and returned on Sep 9 and data sharing ended. No replacement planned.",
+    "sources": [
+      {
+        "url": "https://www.startribune.com/crystal-mn-removes-flock-cameras/601888011",
+        "title": "Crystal removes Flock cameras",
+        "outlet": "Star Tribune",
+        "date": "2026-09-09"
+      },
+      {
+        "url": "https://kstp.com/kstp-news/local-news/after-community-feedback-crystal-becomes-latest-city-to-drop-flock-cameras/",
+        "title": "Crystal becomes latest city to drop Flock cameras",
+        "outlet": "KSTP",
+        "date": "2026-09-09"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393762": {
+    "id": "2393762",
+    "name": "Carver",
+    "kind": "city",
+    "counties": [
+      "Carver"
+    ],
+    "population": 6371,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393784": {
+    "id": "2393784",
+    "name": "Centerville",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 3912,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393797": {
+    "id": "2393797",
+    "name": "Champlin",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 24007,
+    "status": "pending",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-09-01",
+    "summary": "All cameras were pulled offline after vandalism. The city calls it temporary but has no reinstatement timeline.",
+    "sources": [
+      {
+        "url": "https://hoodline.com/2026/09/vandals-force-champlin-to-pull-flock-cameras-amid-statewide-surveillance-revolt/",
+        "title": "Vandals force Champlin to pull Flock cameras",
+        "outlet": "Hoodline",
+        "date": "2026-09-01"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393799": {
+    "id": "2393799",
+    "name": "Chanhassen",
+    "kind": "city",
+    "counties": [
+      "Hennepin",
+      "Carver"
+    ],
+    "population": 25885,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393809": {
+    "id": "2393809",
+    "name": "Chaska",
+    "kind": "city",
+    "counties": [
+      "Carver"
+    ],
+    "population": 28170,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393887": {
+    "id": "2393887",
+    "name": "Afton",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 2983,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393904": {
+    "id": "2393904",
+    "name": "Albertville",
+    "kind": "city",
+    "counties": [
+      "Wright"
+    ],
+    "population": 8220,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393954": {
+    "id": "2393954",
+    "name": "Andover",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 32822,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "anoka-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393964": {
+    "id": "2393964",
+    "name": "Anoka",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 18127,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 7,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393967": {
+    "id": "2393967",
+    "name": "Apple Valley",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 55673,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2393979": {
+    "id": "2393979",
+    "name": "Arden Hills",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 9682,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394090": {
+    "id": "2394090",
+    "name": "Bayport",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 3691,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394156": {
+    "id": "2394156",
+    "name": "Bethel",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 479,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "anoka-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394171": {
+    "id": "2394171",
+    "name": "Birchwood Village",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 851,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394183": {
+    "id": "2394183",
+    "name": "Blaine",
+    "kind": "city",
+    "counties": [
+      "Ramsey",
+      "Anoka"
+    ],
+    "population": 71891,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 32,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394198": {
+    "id": "2394198",
+    "name": "Bloomington",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 91330,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394245": {
+    "id": "2394245",
+    "name": "Greenwood",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 720,
+    "status": "pending",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "Policed by South Lake Minnetonka Police, which ends its Flock program on Dec 31, 2026.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [
+      "south-lake-mtka-pd"
+    ],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2394273": {
+    "id": "2394273",
+    "name": "Ham Lake",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 16524,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "anoka-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394282": {
+    "id": "2394282",
+    "name": "Hampton",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 743,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394288": {
+    "id": "2394288",
+    "name": "Hanover",
+    "kind": "city",
+    "counties": [
+      "Wright",
+      "Hennepin"
+    ],
+    "population": 3874,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394320": {
+    "id": "2394320",
+    "name": "Hastings",
+    "kind": "city",
+    "counties": [
+      "Dakota",
+      "Washington"
+    ],
+    "population": 22155,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394389": {
+    "id": "2394389",
+    "name": "Hilltop",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 967,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394417": {
+    "id": "2394417",
+    "name": "Hopkins",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 18608,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 8,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394440": {
+    "id": "2394440",
+    "name": "Hugo",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 16354,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394471": {
+    "id": "2394471",
+    "name": "Dayton",
+    "kind": "city",
+    "counties": [
+      "Hennepin",
+      "Wright"
+    ],
+    "population": 9281,
+    "status": "pending",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-08-25",
+    "summary": "Council suspended all license plate reader programs through 2027 because the contract is locked in. Flock reinstalled 2 cameras without authorization in October; they have since been removed.",
+    "sources": [
+      {
+        "url": "https://cbsnews.com/minnesota/news/dayton-minnesota-flock-cameras-installed-without-permission",
+        "title": "Flock cameras installed in Dayton without permission",
+        "outlet": "WCCO",
+        "date": "2026-10-02"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394486": {
+    "id": "2394486",
+    "name": "Deephaven",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 3840,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 5,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394495": {
+    "id": "2394495",
+    "name": "Delano",
+    "kind": "city",
+    "counties": [
+      "Wright"
+    ],
+    "population": 7023,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394503": {
+    "id": "2394503",
+    "name": "Dellwood",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 1156,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394586": {
+    "id": "2394586",
+    "name": "Eagan",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 68889,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 13,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394596": {
+    "id": "2394596",
+    "name": "East Bethel",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 11961,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "anoka-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394614": {
+    "id": "2394614",
+    "name": "Eden Prairie",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 64023,
+    "status": "other_vendor",
+    "vendor": "Motorola",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-09-04",
+    "summary": "Uses Motorola plate readers, not Flock. No changes planned.",
+    "sources": [
+      {
+        "url": "https://eplocalnews.org/2026/09/04/eden-prairie-police-address-automated-license-plate-reader-privacy-concerns/",
+        "title": "Eden Prairie police address ALPR privacy concerns",
+        "outlet": "EP Local News",
+        "date": "2026-09-04"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394621": {
+    "id": "2394621",
+    "name": "Edina",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 54048,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 19,
+    "sharing_restricted": true,
+    "since": "2026-08-01",
+    "summary": "Active, with reported counts from 19 to 34 cameras. Repeated vandalism. The city says it does not share with outside agencies. No council action.",
+    "sources": [
+      {
+        "url": "https://kstp.com/kstp-news/local-news/edina-police-say-3-flock-cameras-are-still-functional-after-they-were-spray-painted/",
+        "title": "Edina Flock cameras still functional after vandalism",
+        "outlet": "KSTP",
+        "date": "2026-08-01"
+      },
+      {
+        "url": "https://www.edinamn.gov/2228/Immigration",
+        "title": "Edina immigration FAQ",
+        "outlet": "City of Edina",
+        "date": "2026-08-01"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394650": {
+    "id": "2394650",
+    "name": "Elk River",
+    "kind": "city",
+    "counties": [
+      "Sherburne"
+    ],
+    "population": 27001,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394658": {
+    "id": "2394658",
+    "name": "Elko New Market",
+    "kind": "city",
+    "counties": [
+      "Scott"
+    ],
+    "population": 5003,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394717": {
+    "id": "2394717",
+    "name": "Excelsior",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 2335,
+    "status": "pending",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "Policed by South Lake Minnetonka Police, which ends its Flock program on Dec 31, 2026.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [
+      "south-lake-mtka-pd"
+    ],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2394738": {
+    "id": "2394738",
+    "name": "Falcon Heights",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 5379,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394747": {
+    "id": "2394747",
+    "name": "Farmington",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 23719,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394789": {
+    "id": "2394789",
+    "name": "Forest Lake",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 20862,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 2,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394826": {
+    "id": "2394826",
+    "name": "Fridley",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 29962,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 6,
+    "sharing_restricted": true,
+    "since": "2026-07-20",
+    "summary": "Kept 6 cameras. Disabled immigration searches in January, limited sharing to Minnesota agencies in February, and blocked 287(g) agencies in July. It had been the largest outside access point, with about 390,000 outside searches a month.",
+    "sources": [
+      {
+        "url": "https://www.fox9.com/news/flock-camera-debate-fridley-city-council-july-28-2026",
+        "title": "Flock camera debate at Fridley City Council",
+        "outlet": "FOX 9",
+        "date": "2026-07-28"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394871": {
+    "id": "2394871",
+    "name": "Gem Lake",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 530,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394924": {
+    "id": "2394924",
+    "name": "Golden Valley",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 22034,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394963": {
+    "id": "2394963",
+    "name": "Grant",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 3991,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2394988": {
+    "id": "2394988",
+    "name": "Greenfield",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 2947,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395007": {
+    "id": "2395007",
+    "name": "Marine on Saint Croix",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 669,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395049": {
+    "id": "2395049",
+    "name": "Mayer",
+    "kind": "city",
+    "counties": [
+      "Carver"
+    ],
+    "population": 2542,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395082": {
+    "id": "2395082",
+    "name": "Medicine Lake",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 327,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395084": {
+    "id": "2395084",
+    "name": "Medina",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 7250,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 6,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395096": {
+    "id": "2395096",
+    "name": "Mendota",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 195,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395097": {
+    "id": "2395097",
+    "name": "Mendota Heights",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 11658,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395111": {
+    "id": "2395111",
+    "name": "Mound",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 9284,
+    "status": "none",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "Policed by Orono Police. Mound never pursued Flock and no cameras were ever installed.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [
+      "orono-pd"
+    ],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2395118": {
+    "id": "2395118",
+    "name": "Mounds View",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 12965,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 10,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395187": {
+    "id": "2395187",
+    "name": "New Brighton",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 23405,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 8,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395201": {
+    "id": "2395201",
+    "name": "New Hope",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 21552,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 9,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395227": {
+    "id": "2395227",
+    "name": "Newport",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 4501,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395259": {
+    "id": "2395259",
+    "name": "North Oaks",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 5195,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395261": {
+    "id": "2395261",
+    "name": "North Saint Paul",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 12486,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395282": {
+    "id": "2395282",
+    "name": "Oak Grove",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 9102,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "anoka-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395285": {
+    "id": "2395285",
+    "name": "Oak Park Heights",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 4776,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395287": {
+    "id": "2395287",
+    "name": "Oakdale",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 27858,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 3,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395345": {
+    "id": "2395345",
+    "name": "Minneapolis",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 436934,
+    "status": "other_vendor",
+    "vendor": "Insight LPR",
+    "cameras_reported": 30,
+    "sharing_restricted": false,
+    "since": "2026-08-04",
+    "summary": "Police use about 30 plate readers from Insight LPR, not Flock, per an Aug 4 city statement. A 9-4 council resolution urges Hennepin County and the U of M to drop Flock.",
+    "sources": [
+      {
+        "url": "https://unicornriot.ninja/2026/alprs-and-minneapolis-growing-discriminatory-surveillance-dragnet/",
+        "title": "ALPRs and Minneapolis",
+        "outlet": "Unicorn Riot",
+        "date": "2026-08-04"
+      },
+      {
+        "url": "https://kstp.com/kstp-news/local-news/minneapolis-city-council-resolution-calls-on-u-of-m-hennepin-county-to-ditch-flock-cameras/",
+        "title": "Minneapolis council resolution on Flock",
+        "outlet": "KSTP",
+        "date": "2026-10-01"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395350": {
+    "id": "2395350",
+    "name": "Minnetonka",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 54474,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 13,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395351": {
+    "id": "2395351",
+    "name": "Minnetonka Beach",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 547,
+    "status": "none",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "The city has no plate reader cameras.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2395352": {
+    "id": "2395352",
+    "name": "Minnetrista",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 8827,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 4,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395420": {
+    "id": "2395420",
+    "name": "Independence",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 3771,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "west-hennepin-ps"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395429": {
+    "id": "2395429",
+    "name": "Inver Grove Heights",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 35652,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395483": {
+    "id": "2395483",
+    "name": "Jordan",
+    "kind": "city",
+    "counties": [
+      "Scott"
+    ],
+    "population": 6836,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395589": {
+    "id": "2395589",
+    "name": "Lake Elmo",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 13514,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395599": {
+    "id": "2395599",
+    "name": "Lake Saint Croix Beach",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 1023,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395609": {
+    "id": "2395609",
+    "name": "Lakeland",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 1680,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395610": {
+    "id": "2395610",
+    "name": "Lakeland Shores",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 334,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395614": {
+    "id": "2395614",
+    "name": "Lakeville",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 73828,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 18,
+    "sharing_restricted": false,
+    "since": "2025-12-15",
+    "summary": "Council approved 17 to 20 cameras on Dec 15, 2025. Residents are urging the council to rescind.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395626": {
+    "id": "2395626",
+    "name": "Landfall",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 813,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395642": {
+    "id": "2395642",
+    "name": "Lauderdale",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 2221,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395696": {
+    "id": "2395696",
+    "name": "Lexington",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 2738,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395708": {
+    "id": "2395708",
+    "name": "Lilydale",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 790,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395725": {
+    "id": "2395725",
+    "name": "Lino Lakes",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 21658,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395733": {
+    "id": "2395733",
+    "name": "Little Canada",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 10632,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395756": {
+    "id": "2395756",
+    "name": "Long Lake",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 1700,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395764": {
+    "id": "2395764",
+    "name": "Loretto",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 637,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395818": {
+    "id": "2395818",
+    "name": "Mahtomedi",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 8055,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395838": {
+    "id": "2395838",
+    "name": "Maple Grove",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 71230,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 1,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395841": {
+    "id": "2395841",
+    "name": "Maple Plain",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 1950,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "west-hennepin-ps"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395846": {
+    "id": "2395846",
+    "name": "Maplewood",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 41581,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 17,
+    "sharing_restricted": false,
+    "since": "2025-07-14",
+    "summary": "Approved a 2-year pilot on Jul 14, 2025. About 17 cameras reportedly installed but not yet activated as of September 2026.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "low",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395854": {
+    "id": "2395854",
+    "name": "Shakopee",
+    "kind": "city",
+    "counties": [
+      "Scott"
+    ],
+    "population": 45961,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 7,
+    "sharing_restricted": true,
+    "since": "2026-09-01",
+    "summary": "7 cameras, 5 working. Outside agencies now need a warrant. Considering 7-day retention; no council vote yet.",
+    "sources": [
+      {
+        "url": "https://www.fox9.com/news/shakopee-flock-cameras-city-defends-surveillance-tools-amid-misinformation-concerns",
+        "title": "Shakopee defends Flock cameras",
+        "outlet": "FOX 9",
+        "date": "2026-09-01"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395876": {
+    "id": "2395876",
+    "name": "Shoreview",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 27141,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395877": {
+    "id": "2395877",
+    "name": "Shorewood",
+    "kind": "city",
+    "counties": [
+      "Carver",
+      "Hennepin"
+    ],
+    "population": 7859,
+    "status": "cancelled",
+    "vendor": "Flock Safety",
+    "cameras_reported": 1,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "South Lake Minnetonka Police are ending Flock on Dec 31, 2026. Shorewood's single camera is already out of service, covered with a garbage bag.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      },
+      {
+        "url": "https://shorewoodmn.gov/Blog.aspx?IID=21",
+        "title": "City of Shorewood update",
+        "outlet": "City of Shorewood",
+        "date": "2026-03-09"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [
+      "south-lake-mtka-pd"
+    ],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2395918": {
+    "id": "2395918",
+    "name": "South Saint Paul",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 20489,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 9,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395934": {
+    "id": "2395934",
+    "name": "Spring Lake Park",
+    "kind": "city",
+    "counties": [
+      "Anoka",
+      "Ramsey"
+    ],
+    "population": 7430,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 2,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395935": {
+    "id": "2395935",
+    "name": "Spring Park",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 1716,
+    "status": "cancelled",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-09-01",
+    "summary": "Cancelled its Flock contract in September 2026.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-09-01"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2395946": {
+    "id": "2395946",
+    "name": "Stacy",
+    "kind": "city",
+    "counties": [
+      "Chisago"
+    ],
+    "population": 4764,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2395969": {
+    "id": "2395969",
+    "name": "Stillwater",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 19425,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 18,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396006": {
+    "id": "2396006",
+    "name": "Sunfish Lake",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 520,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396081": {
+    "id": "2396081",
+    "name": "Orono",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 8447,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 2,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396098": {
+    "id": "2396098",
+    "name": "Osseo",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 2642,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 4,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396105": {
+    "id": "2396105",
+    "name": "Otsego",
+    "kind": "city",
+    "counties": [
+      "Wright"
+    ],
+    "population": 22705,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396211": {
+    "id": "2396211",
+    "name": "Pine Springs",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 370,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396242": {
+    "id": "2396242",
+    "name": "Plymouth",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 80762,
+    "status": "pending",
+    "vendor": "Flock Safety",
+    "cameras_reported": 16,
+    "sharing_restricted": false,
+    "since": "2026-09-22",
+    "summary": "Council voted on Sep 22 to discontinue all 16 Flock cameras, with the mayor the sole dissent. As of October the cameras have not been removed or covered.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      },
+      {
+        "url": "https://www.mprnews.org/story/2026/09/23/plymouth-stops-using-flock-cameras",
+        "title": "Plymouth stops using Flock cameras",
+        "outlet": "MPR News",
+        "date": "2026-09-23"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2396284": {
+    "id": "2396284",
+    "name": "Prior Lake",
+    "kind": "city",
+    "counties": [
+      "Scott"
+    ],
+    "population": 27855,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 9,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396311": {
+    "id": "2396311",
+    "name": "Ramsey",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 28712,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396362": {
+    "id": "2396362",
+    "name": "Richfield",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 36543,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 10,
+    "sharing_restricted": false,
+    "since": "2026-09-04",
+    "summary": "10 cameras active. Residents petitioned and testified on Aug 25; no vote scheduled. Contract renews May 2027.",
+    "sources": [
+      {
+        "url": "https://www.hometownsource.com/sun_current/community/richfield-residents-ask-city-to-end-its-use-of-flock-cameras/article_3b14bda2-ed5a-4011-a6e9-7238847561ca.html",
+        "title": "Richfield residents ask city to end Flock use",
+        "outlet": "Sun Current",
+        "date": "2026-09-04"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396388": {
+    "id": "2396388",
+    "name": "Robbinsdale",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 14986,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 2,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396406": {
+    "id": "2396406",
+    "name": "Rockford",
+    "kind": "city",
+    "counties": [
+      "Hennepin",
+      "Wright"
+    ],
+    "population": 4781,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396415": {
+    "id": "2396415",
+    "name": "Rogers",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 14430,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 8,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396433": {
+    "id": "2396433",
+    "name": "Rosemount",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 26943,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396435": {
+    "id": "2396435",
+    "name": "Roseville",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 36810,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 6,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396471": {
+    "id": "2396471",
+    "name": "Saint Anthony",
+    "kind": "city",
+    "counties": [
+      "Ramsey",
+      "Hennepin"
+    ],
+    "population": 9060,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396475": {
+    "id": "2396475",
+    "name": "Saint Bonifacius",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 2267,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396487": {
+    "id": "2396487",
+    "name": "Saint Francis",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 8306,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396500": {
+    "id": "2396500",
+    "name": "Saint Louis Park",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 49786,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 8,
+    "sharing_restricted": true,
+    "since": "2026-04-06",
+    "summary": "Council voted to keep cameras with required reason codes, denial of immigration searches, and quarterly audits.",
+    "sources": [
+      {
+        "url": "https://www.hometownsource.com/sun_sailor/community/stlouispark/flock-cameras-will-remain-active-in-slp---with-limitations/article_ae1fdff0-2a0c-4e2a-8489-22fe7de59495.html",
+        "title": "Flock cameras will remain active in SLP, with limitations",
+        "outlet": "Sun Sailor",
+        "date": "2026-04-06"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396508": {
+    "id": "2396508",
+    "name": "Saint Marys Point",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 350,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396509": {
+    "id": "2396509",
+    "name": "Saint Michael",
+    "kind": "city",
+    "counties": [
+      "Wright"
+    ],
+    "population": 20371,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396511": {
+    "id": "2396511",
+    "name": "Saint Paul",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 310992,
+    "status": "cancelled",
+    "vendor": "Flock Safety",
+    "cameras_reported": 2,
+    "sharing_restricted": false,
+    "since": "2026-08-26",
+    "summary": "Council passed a unanimous non-binding resolution to end Flock use in the city and county. The police department's 2 fixed cameras were removed. The Ramsey County Sheriff's roughly 37 cameras remain.",
+    "sources": [
+      {
+        "url": "https://www.fox9.com/news/st-paul-city-council-flock-cameras-aug-26-2026",
+        "title": "St. Paul City Council on Flock cameras",
+        "outlet": "FOX 9",
+        "date": "2026-08-26"
+      },
+      {
+        "url": "https://www.cbsnews.com/minnesota/news/st-paul-to-remove-flock-cameras-after-residents-raise-privacy-concerns/",
+        "title": "St. Paul to remove Flock cameras",
+        "outlet": "WCCO",
+        "date": "2026-08-26"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396516": {
+    "id": "2396516",
+    "name": "Saint Paul Park",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 5498,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396543": {
+    "id": "2396543",
+    "name": "Savage",
+    "kind": "city",
+    "counties": [
+      "Scott"
+    ],
+    "population": 33137,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2396548": {
+    "id": "2396548",
+    "name": "Scandia",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 4001,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397036": {
+    "id": "2397036",
+    "name": "Tonka Bay",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 1608,
+    "status": "pending",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "Policed by South Lake Minnetonka Police, which ends its Flock program on Dec 31, 2026.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [
+      "south-lake-mtka-pd"
+    ],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2397106": {
+    "id": "2397106",
+    "name": "Vadnais Heights",
+    "kind": "city",
+    "counties": [
+      "Ramsey"
+    ],
+    "population": 13270,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "ramsey-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397127": {
+    "id": "2397127",
+    "name": "Vermillion",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 434,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397135": {
+    "id": "2397135",
+    "name": "Victoria",
+    "kind": "city",
+    "counties": [
+      "Carver"
+    ],
+    "population": 11289,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397159": {
+    "id": "2397159",
+    "name": "Waconia",
+    "kind": "city",
+    "counties": [
+      "Carver"
+    ],
+    "population": 13593,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397211": {
+    "id": "2397211",
+    "name": "Watertown",
+    "kind": "city",
+    "counties": [
+      "Carver"
+    ],
+    "population": 4848,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397235": {
+    "id": "2397235",
+    "name": "Wayzata",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 4437,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 10,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397275": {
+    "id": "2397275",
+    "name": "West Saint Paul",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 21169,
+    "status": "cancelled",
+    "vendor": "Flock Safety",
+    "cameras_reported": 10,
+    "sharing_restricted": false,
+    "since": "2026-08-10",
+    "summary": "City manager suspended the contract and all 10 cameras were removed. Bringing them back would require a council vote.",
+    "sources": [
+      {
+        "url": "https://www.kare11.com/article/news/local/west-st-paul-suspends-contract-flock-safety/89-5f230761-b0ca-44fc-b829-9d5bedcc9eea",
+        "title": "West St. Paul suspends Flock contract",
+        "outlet": "KARE 11",
+        "date": "2026-08-10"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397299": {
+    "id": "2397299",
+    "name": "White Bear Lake",
+    "kind": "city",
+    "counties": [
+      "Washington",
+      "Ramsey"
+    ],
+    "population": 24689,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "Listed as an active Flock deployment in state-mandated reports. No cancellation reported.",
+    "sources": [
+      {
+        "url": "https://www.mnprivacy.org/tracker/",
+        "title": "Minnesota ALPR tracker",
+        "outlet": "mnprivacy.org",
+        "date": "2026-09-30"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397314": {
+    "id": "2397314",
+    "name": "Willernie",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 515,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397369": {
+    "id": "2397369",
+    "name": "Woodbury",
+    "kind": "city",
+    "counties": [
+      "Washington"
+    ],
+    "population": 77224,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": 18,
+    "sharing_restricted": true,
+    "since": "2026-08-01",
+    "summary": "18 cameras per state reports. Residents asked for a pause in August; staff restricted outside access and are exploring a third-party review.",
+    "sources": [
+      {
+        "url": "https://citizenportal.ai/articles/9858740/Minnesota/Washington-County/Woodbury-City/Residents-urge-privacy-review-of-Flock-ALPR-cameras-city-says-outside-access-now-restricted",
+        "title": "Residents urge privacy review of Flock cameras",
+        "outlet": "Citizen Portal",
+        "date": "2026-08-01"
+      }
+    ],
+    "confidence": "medium",
+    "covered_by": [],
+    "last_reviewed": "2026-10-06",
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2397370": {
+    "id": "2397370",
+    "name": "Woodland",
+    "kind": "city",
+    "counties": [
+      "Hennepin"
+    ],
+    "population": 386,
+    "status": "active",
+    "vendor": "Flock Safety",
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": "2026-10-08",
+    "summary": "Has an active Flock contract.",
+    "sources": [
+      {
+        "url": null,
+        "title": "Editor note",
+        "outlet": "Reader Map editor",
+        "date": "2026-10-08"
+      }
+    ],
+    "confidence": "high",
+    "covered_by": [],
+    "last_reviewed": "2026-10-08",
+    "last_ai_check": null,
+    "notes": "",
+    "set_by": "manual"
+  },
+  "2397388": {
+    "id": "2397388",
+    "name": "Wyoming",
+    "kind": "city",
+    "counties": [
+      "Chisago"
+    ],
+    "population": 8228,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2437910": {
+    "id": "2437910",
+    "name": "Nowthen",
+    "kind": "city",
+    "counties": [
+      "Anoka"
+    ],
+    "population": 4517,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [
+      "anoka-sheriff"
+    ],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2830139": {
+    "id": "2830139",
+    "name": "Credit River",
+    "kind": "city",
+    "counties": [
+      "Scott"
+    ],
+    "population": 5498,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  },
+  "2831011": {
+    "id": "2831011",
+    "name": "Empire",
+    "kind": "city",
+    "counties": [
+      "Dakota"
+    ],
+    "population": 3152,
+    "status": "unknown",
+    "vendor": null,
+    "cameras_reported": null,
+    "sharing_restricted": false,
+    "since": null,
+    "summary": "",
+    "sources": [],
+    "confidence": null,
+    "covered_by": [],
+    "last_reviewed": null,
+    "last_ai_check": null,
+    "notes": ""
+  }
+}
