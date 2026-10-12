@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-08T16:52:36.357Z",
+  "fetchedAt": "2026-10-12T20:10:56.826Z",
   "cities": {
     "663529": {
       "total": 2,
@@ -103,12 +103,12 @@
       }
     },
     "2393429": {
-      "total": 28,
+      "total": 27,
       "vendors": {
-        "flock": 28
+        "flock": 27
       },
       "operators": {
-        "unspecified": 27,
+        "unspecified": 26,
         "The Home Depot": 1
       }
     },
@@ -325,15 +325,15 @@
       }
     },
     "2394417": {
-      "total": 21,
+      "total": 22,
       "vendors": {
         "flock": 13,
-        "genetec": 5,
+        "genetec": 6,
         "unknown": 3
       },
       "operators": {
         "Edina Police Department": 1,
-        "unspecified": 12,
+        "unspecified": 13,
         "Hopkins PD": 8
       }
     },
@@ -562,9 +562,9 @@
       }
     },
     "2395345": {
-      "total": 109,
+      "total": 113,
       "vendors": {
-        "flock": 55,
+        "flock": 59,
         "motorola": 2,
         "genetec": 4,
         "other": 46,
@@ -572,7 +572,7 @@
       },
       "operators": {
         "University of Minnesota Police Department": 2,
-        "unspecified": 53,
+        "unspecified": 57,
         "Minneapolis, MN PD": 1,
         "Hennepin County Sheriff's Office": 5,
         "Minneapolis Police Department": 45,
@@ -581,15 +581,16 @@
       }
     },
     "2395350": {
-      "total": 24,
+      "total": 25,
       "vendors": {
         "motorola": 2,
-        "flock": 22
+        "flock": 22,
+        "axon": 1
       },
       "operators": {
         "Minnetonka Police Department": 5,
         "Bet Shalom Congregation": 1,
-        "unspecified": 14,
+        "unspecified": 15,
         "Minnetonka High School": 4
       }
     },
@@ -659,6 +660,15 @@
         "unspecified": 1
       }
     },
+    "2395733": {
+      "total": 1,
+      "vendors": {
+        "flock": 1
+      },
+      "operators": {
+        "unspecified": 1
+      }
+    },
     "2395756": {
       "total": 2,
       "vendors": {
@@ -690,12 +700,12 @@
       }
     },
     "2395846": {
-      "total": 22,
+      "total": 23,
       "vendors": {
-        "flock": 22
+        "flock": 23
       },
       "operators": {
-        "unspecified": 21,
+        "unspecified": 22,
         "The Home Depot": 1
       }
     },
