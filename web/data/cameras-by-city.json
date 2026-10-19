@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T20:10:56.826Z",
+  "fetchedAt": "2026-10-19T17:22:51.447Z",
   "cities": {
     "663529": {
       "total": 2,
@@ -103,12 +103,13 @@
       }
     },
     "2393429": {
-      "total": 27,
+      "total": 28,
       "vendors": {
-        "flock": 27
+        "flock": 27,
+        "other": 1
       },
       "operators": {
-        "unspecified": 26,
+        "unspecified": 27,
         "The Home Depot": 1
       }
     },
@@ -160,23 +161,23 @@
       }
     },
     "2393634": {
-      "total": 6,
+      "total": 5,
       "vendors": {
         "unknown": 1,
-        "flock": 5
+        "flock": 4
       },
       "operators": {
-        "unspecified": 6
+        "unspecified": 5
       }
     },
     "2393644": {
-      "total": 143,
+      "total": 147,
       "vendors": {
-        "flock": 137,
+        "flock": 141,
         "motorola": 6
       },
       "operators": {
-        "unspecified": 143
+        "unspecified": 147
       }
     },
     "2393683": {
@@ -243,12 +244,12 @@
       }
     },
     "2393967": {
-      "total": 5,
+      "total": 6,
       "vendors": {
-        "flock": 5
+        "flock": 6
       },
       "operators": {
-        "unspecified": 3,
+        "unspecified": 4,
         "The Home Depot": 2
       }
     },
@@ -517,8 +518,8 @@
     "2395227": {
       "total": 15,
       "vendors": {
-        "flock": 2,
-        "motorola": 13
+        "flock": 3,
+        "motorola": 12
       },
       "operators": {
         "unspecified": 15
@@ -552,13 +553,13 @@
       }
     },
     "2395287": {
-      "total": 14,
+      "total": 16,
       "vendors": {
-        "flock": 7,
+        "flock": 9,
         "other": 7
       },
       "operators": {
-        "unspecified": 14
+        "unspecified": 16
       }
     },
     "2395345": {
@@ -581,16 +582,16 @@
       }
     },
     "2395350": {
-      "total": 25,
+      "total": 26,
       "vendors": {
         "motorola": 2,
         "flock": 22,
-        "axon": 1
+        "axon": 2
       },
       "operators": {
         "Minnetonka Police Department": 5,
         "Bet Shalom Congregation": 1,
-        "unspecified": 15,
+        "unspecified": 16,
         "Minnetonka High School": 4
       }
     },
@@ -700,12 +701,12 @@
       }
     },
     "2395846": {
-      "total": 23,
+      "total": 40,
       "vendors": {
-        "flock": 23
+        "flock": 40
       },
       "operators": {
-        "unspecified": 22,
+        "unspecified": 39,
         "The Home Depot": 1
       }
     },
@@ -881,9 +882,9 @@
       }
     },
     "2396511": {
-      "total": 48,
+      "total": 62,
       "vendors": {
-        "flock": 32,
+        "flock": 46,
         "genetec": 6,
         "motorola": 2,
         "other": 7,
@@ -891,7 +892,7 @@
       },
       "operators": {
         "Ramsey County Sheriff's Office": 1,
-        "unspecified": 45,
+        "unspecified": 59,
         "Temple of Aaron": 2
       }
     },
@@ -975,15 +976,15 @@
       }
     },
     "2397369": {
-      "total": 103,
+      "total": 107,
       "vendors": {
-        "flock": 97,
+        "flock": 101,
         "other": 4,
         "motorola": 2
       },
       "operators": {
         "Flock Safety": 7,
-        "unspecified": 96
+        "unspecified": 100
       }
     },
     "2397370": {
