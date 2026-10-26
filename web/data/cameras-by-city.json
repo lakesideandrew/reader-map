@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-19T17:22:51.447Z",
+  "fetchedAt": "2026-10-26T17:10:29.065Z",
   "cities": {
     "663529": {
       "total": 2,
@@ -29,12 +29,13 @@
       }
     },
     "663965": {
-      "total": 8,
+      "total": 13,
       "vendors": {
-        "flock": 8
+        "flock": 12,
+        "motorola": 1
       },
       "operators": {
-        "unspecified": 8
+        "unspecified": 13
       }
     },
     "664202": {
@@ -161,23 +162,23 @@
       }
     },
     "2393634": {
-      "total": 5,
+      "total": 6,
       "vendors": {
         "unknown": 1,
-        "flock": 4
+        "flock": 5
       },
       "operators": {
-        "unspecified": 5
+        "unspecified": 6
       }
     },
     "2393644": {
-      "total": 147,
+      "total": 151,
       "vendors": {
-        "flock": 141,
+        "flock": 145,
         "motorola": 6
       },
       "operators": {
-        "unspecified": 147
+        "unspecified": 151
       }
     },
     "2393683": {
@@ -199,21 +200,21 @@
       }
     },
     "2393809": {
-      "total": 5,
+      "total": 6,
       "vendors": {
-        "flock": 5
+        "flock": 6
       },
       "operators": {
-        "unspecified": 5
+        "unspecified": 6
       }
     },
     "2393887": {
-      "total": 4,
+      "total": 6,
       "vendors": {
-        "flock": 4
+        "flock": 6
       },
       "operators": {
-        "unspecified": 4
+        "unspecified": 6
       }
     },
     "2393904": {
@@ -367,14 +368,16 @@
       }
     },
     "2394586": {
-      "total": 15,
+      "total": 17,
       "vendors": {
-        "flock": 15
+        "flock": 15,
+        "axon": 1,
+        "unknown": 1
       },
       "operators": {
         "Eagan": 7,
         "Flock Safety": 1,
-        "unspecified": 6,
+        "unspecified": 8,
         "The Home Depot": 1
       }
     },
@@ -563,9 +566,9 @@
       }
     },
     "2395345": {
-      "total": 113,
+      "total": 117,
       "vendors": {
-        "flock": 59,
+        "flock": 63,
         "motorola": 2,
         "genetec": 4,
         "other": 46,
@@ -573,7 +576,7 @@
       },
       "operators": {
         "University of Minnesota Police Department": 2,
-        "unspecified": 57,
+        "unspecified": 61,
         "Minneapolis, MN PD": 1,
         "Hennepin County Sheriff's Office": 5,
         "Minneapolis Police Department": 45,
@@ -882,9 +885,9 @@
       }
     },
     "2396511": {
-      "total": 62,
+      "total": 63,
       "vendors": {
-        "flock": 46,
+        "flock": 47,
         "genetec": 6,
         "motorola": 2,
         "other": 7,
@@ -892,7 +895,7 @@
       },
       "operators": {
         "Ramsey County Sheriff's Office": 1,
-        "unspecified": 59,
+        "unspecified": 60,
         "Temple of Aaron": 2
       }
     },
