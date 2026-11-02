@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-26T17:10:29.065Z",
+  "fetchedAt": "2026-11-02T20:39:43.183Z",
   "cities": {
     "663529": {
       "total": 2,
@@ -172,13 +172,13 @@
       }
     },
     "2393644": {
-      "total": 151,
+      "total": 152,
       "vendors": {
-        "flock": 145,
+        "flock": 146,
         "motorola": 6
       },
       "operators": {
-        "unspecified": 151
+        "unspecified": 152
       }
     },
     "2393683": {
@@ -245,23 +245,22 @@
       }
     },
     "2393967": {
-      "total": 6,
+      "total": 5,
       "vendors": {
-        "flock": 6
+        "flock": 5
       },
       "operators": {
-        "unspecified": 4,
+        "unspecified": 3,
         "The Home Depot": 2
       }
     },
     "2393979": {
-      "total": 2,
+      "total": 1,
       "vendors": {
-        "other": 1,
         "flock": 1
       },
       "operators": {
-        "unspecified": 2
+        "unspecified": 1
       }
     },
     "2394183": {
@@ -585,16 +584,16 @@
       }
     },
     "2395350": {
-      "total": 26,
+      "total": 29,
       "vendors": {
         "motorola": 2,
-        "flock": 22,
-        "axon": 2
+        "flock": 20,
+        "axon": 7
       },
       "operators": {
         "Minnetonka Police Department": 5,
         "Bet Shalom Congregation": 1,
-        "unspecified": 16,
+        "unspecified": 19,
         "Minnetonka High School": 4
       }
     },
@@ -645,14 +644,12 @@
       }
     },
     "2395614": {
-      "total": 26,
+      "total": 21,
       "vendors": {
-        "flock": 24,
-        "motorola": 1,
-        "other": 1
+        "flock": 21
       },
       "operators": {
-        "unspecified": 26
+        "unspecified": 21
       }
     },
     "2395725": {
@@ -885,17 +882,17 @@
       }
     },
     "2396511": {
-      "total": 63,
+      "total": 62,
       "vendors": {
         "flock": 47,
-        "genetec": 6,
+        "genetec": 5,
         "motorola": 2,
         "other": 7,
         "axon": 1
       },
       "operators": {
         "Ramsey County Sheriff's Office": 1,
-        "unspecified": 60,
+        "unspecified": 59,
         "Temple of Aaron": 2
       }
     },
@@ -928,13 +925,12 @@
       }
     },
     "2397106": {
-      "total": 3,
+      "total": 2,
       "vendors": {
-        "flock": 2,
-        "other": 1
+        "flock": 2
       },
       "operators": {
-        "unspecified": 3
+        "unspecified": 2
       }
     },
     "2397135": {
