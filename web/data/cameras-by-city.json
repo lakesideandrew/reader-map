@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T20:39:43.183Z",
+  "fetchedAt": "2026-11-09T21:20:33.850Z",
   "cities": {
     "663529": {
       "total": 2,
@@ -458,13 +458,12 @@
       }
     },
     "2394826": {
-      "total": 23,
+      "total": 22,
       "vendors": {
-        "flock": 22,
-        "other": 1
+        "flock": 22
       },
       "operators": {
-        "unspecified": 23
+        "unspecified": 22
       }
     },
     "2394924": {
@@ -498,13 +497,13 @@
       }
     },
     "2395187": {
-      "total": 12,
+      "total": 11,
       "vendors": {
         "flock": 10,
-        "other": 2
+        "other": 1
       },
       "operators": {
-        "unspecified": 9,
+        "unspecified": 8,
         "New Brighton Police Department": 3
       }
     },
@@ -555,13 +554,13 @@
       }
     },
     "2395287": {
-      "total": 16,
+      "total": 12,
       "vendors": {
-        "flock": 9,
-        "other": 7
+        "flock": 8,
+        "other": 4
       },
       "operators": {
-        "unspecified": 16
+        "unspecified": 12
       }
     },
     "2395345": {
@@ -616,12 +615,12 @@
       }
     },
     "2395429": {
-      "total": 4,
+      "total": 5,
       "vendors": {
-        "flock": 4
+        "flock": 5
       },
       "operators": {
-        "unspecified": 4
+        "unspecified": 5
       }
     },
     "2395589": {
@@ -784,13 +783,13 @@
       }
     },
     "2396242": {
-      "total": 33,
+      "total": 32,
       "vendors": {
-        "flock": 32,
+        "flock": 31,
         "unknown": 1
       },
       "operators": {
-        "unspecified": 33
+        "unspecified": 32
       }
     },
     "2396284": {
@@ -975,15 +974,15 @@
       }
     },
     "2397369": {
-      "total": 107,
+      "total": 106,
       "vendors": {
         "flock": 101,
-        "other": 4,
-        "motorola": 2
+        "motorola": 2,
+        "other": 3
       },
       "operators": {
         "Flock Safety": 7,
-        "unspecified": 100
+        "unspecified": 99
       }
     },
     "2397370": {

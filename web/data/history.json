@@ -608,5 +608,59 @@
     "to": 2,
     "summary": "OpenStreetMap camera count changed from 3 to 2.",
     "by": "osm-refresh"
+  },
+  {
+    "date": "2026-11-09",
+    "city": "2394826",
+    "type": "cameras",
+    "from": 23,
+    "to": 22,
+    "summary": "OpenStreetMap camera count changed from 23 to 22.",
+    "by": "osm-refresh"
+  },
+  {
+    "date": "2026-11-09",
+    "city": "2395187",
+    "type": "cameras",
+    "from": 12,
+    "to": 11,
+    "summary": "OpenStreetMap camera count changed from 12 to 11.",
+    "by": "osm-refresh"
+  },
+  {
+    "date": "2026-11-09",
+    "city": "2395287",
+    "type": "cameras",
+    "from": 16,
+    "to": 12,
+    "summary": "OpenStreetMap camera count changed from 16 to 12.",
+    "by": "osm-refresh"
+  },
+  {
+    "date": "2026-11-09",
+    "city": "2395429",
+    "type": "cameras",
+    "from": 4,
+    "to": 5,
+    "summary": "OpenStreetMap camera count changed from 4 to 5.",
+    "by": "osm-refresh"
+  },
+  {
+    "date": "2026-11-09",
+    "city": "2396242",
+    "type": "cameras",
+    "from": 33,
+    "to": 32,
+    "summary": "OpenStreetMap camera count changed from 33 to 32.",
+    "by": "osm-refresh"
+  },
+  {
+    "date": "2026-11-09",
+    "city": "2397369",
+    "type": "cameras",
+    "from": 107,
+    "to": 106,
+    "summary": "OpenStreetMap camera count changed from 107 to 106.",
+    "by": "osm-refresh"
   }
 ]
